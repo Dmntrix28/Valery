@@ -23,7 +23,7 @@ h1 {
   font-size: 3rem;
   color: white;
   position: absolute;
-  top: 30%;
+  top: 10%;
   font-family: "Playfair Display", serif;
   opacity: 1;
   animation: word-animation 8s ease-in-out forwards;
@@ -31,7 +31,7 @@ h1 {
 .my-name {
   position: absolute;
   color: rgba(255, 255, 255, 0.318);
-  top: 60%;
+  top: 80%;
   animation: word-animation 8s ease-in-out forwards;
 }
 
