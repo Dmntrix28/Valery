@@ -23,7 +23,7 @@ h1 {
   font-size: 3rem;
   color: white;
   position: absolute;
-  top: 40%;
+  top: 30%;
   font-family: "Playfair Display", serif;
   opacity: 1;
   animation: word-animation 8s ease-in-out forwards;
